@@ -28,13 +28,6 @@ there were lots of ups and downs during the journey but, we should learn from lo
 - 💬 ask me about anything, i am happy to help;
 
 
-### Feel Free to Contact me.....
-
-<p align="center">
-	<a href="https://github.com/theraghaw"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.instagram.com/raghav_pandit._/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-</p>
-
 ### Programming Languages....
 
 <p align="center">
